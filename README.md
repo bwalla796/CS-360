@@ -1,2 +1,2 @@
-# CS-365
+# CS-360
 Mobile Application Development Course Project
